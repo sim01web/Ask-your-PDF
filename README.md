@@ -25,5 +25,5 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/ask-your-pdf.git
+git clone https://github.com/sim01web/ask-your-pdf.git
 cd ask-your-pdf
